@@ -10,7 +10,6 @@ form{
     border-radius: 50px;
     border:solid 1px black;
     text-align: left;
-    height 35vh;
     padding: 30px;
     background: rgb(255,182,93);
     background: linear-gradient(90deg, rgba(255,182,93,1) 0%, rgba(167,84,1,1) 100%, rgba(0,212,255,1) 100%);
